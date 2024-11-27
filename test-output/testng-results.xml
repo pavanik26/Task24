@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T12:50:42 IST" name="DemoBlaze Test Suite" finished-at="2024-11-27T12:50:57 IST" duration-ms="14826">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T12:50:42 IST" name="SignUp and Login Tests" finished-at="2024-11-27T12:50:57 IST" duration-ms="14826">
+      <class name="JATTask24.JATTask24.SignupTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:JATTask24.JATTask24.SignupTest@4fb3ee4e]" started-at="2024-11-27T12:50:42 IST" name="setUp" finished-at="2024-11-27T12:50:49 IST" duration-ms="6491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSignUp()[pri:0, instance:JATTask24.JATTask24.SignupTest@4fb3ee4e]" started-at="2024-11-27T12:50:49 IST" name="testSignUp" finished-at="2024-11-27T12:50:51 IST" duration-ms="2444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:JATTask24.JATTask24.SignupTest@4fb3ee4e]" started-at="2024-11-27T12:50:51 IST" name="tearDown" finished-at="2024-11-27T12:50:51 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- JATTask24.JATTask24.SignupTest -->
+      <class name="JATTask24.JATTask24.LoginpageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:JATTask24.JATTask24.LoginpageTest@54a7079e]" started-at="2024-11-27T12:50:51 IST" name="setUp" finished-at="2024-11-27T12:50:55 IST" duration-ms="3669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:JATTask24.JATTask24.LoginpageTest@54a7079e]" started-at="2024-11-27T12:50:55 IST" name="testLogin" finished-at="2024-11-27T12:50:56 IST" duration-ms="1463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:JATTask24.JATTask24.LoginpageTest@54a7079e]" started-at="2024-11-27T12:50:56 IST" name="tearDown" finished-at="2024-11-27T12:50:57 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- JATTask24.JATTask24.LoginpageTest -->
+    </test> <!-- SignUp and Login Tests -->
+  </suite> <!-- DemoBlaze Test Suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DemoBlaze Test Suite">
+    <!-- Define a test group (test name is arbitrary) -->
+    <test name="SignUp and Login Tests">
+        <classes>
+            <!-- Define the classes to run -->
+            <class name="JATTask24.JATTask24.SignupTest"/>
+            <class name="JATTask24.JATTask24.LoginpageTest"/>
+        </classes>
+    </test>
+</suite>
